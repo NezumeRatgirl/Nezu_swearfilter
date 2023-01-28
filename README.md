@@ -19,5 +19,5 @@ The blocked phrases lists being split for two roles is intended to catch new ser
 
 
 
-Please Note: it is recommended that you have a channel in your server for staff alerts/notifications (in my case, #staff-alerts), so staff can untimeout a user if they were timed-out unjustifiedly by the automod, which will can with the "New Users Timeout Phrases" from time-to-time, as it is a strict blocked phrases list.
+#Please Note: it is recommended that you have a channel in your server for staff alerts/notifications (in my case, #staff-alerts), so staff can untimeout a user if they were timed-out unjustifiedly by the automod, which will can with the "New Users Timeout Phrases" from time-to-time, as it is a strict blocked phrases list.
 If you have a phone that allows it eg. an android phone, I strongly recommend setting up notifications when a message is sent in the staff alerts/notifications chat.
